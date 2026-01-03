@@ -18,7 +18,7 @@ BOT_CREDIT = "🤖 bot Created by : @Diabloshd"
 
 CHANNEL = "@newbutrealchannel"
 DISCUSSION = "@oldbutreal"
-ANNOUNCE_CHANNEL = "https://t.me/forannbotko"
+ANNOUNCE_CHANNEL = "@forannbotko"
 
 GCASH_NAME = "J M"
 GCASH_NUMBER = "09569518135"
